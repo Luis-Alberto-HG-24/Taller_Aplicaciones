@@ -45,10 +45,11 @@ Curso de PHP Basico
 4.- Curso de php 7 - Estructura de control if con php
 
 
-	*La estructura de control if , consta de una condicion de la cual , se puede obtener
-		un resultado boolean: true o false, de una condicion , como veremos en el 
-		ejemplo, preguntamos si el numero 1 es menor a 2 , y eso es verdadero entonces
-		nuestro if se ejecuta , en el caso contrario no lo hara 
+	*La estructura de control if , consta de una validacion por medio de una condicion 
+		de la cual , se puede obtener un resultado boolean: true o false, 
+		de una condicion , como veremos en el ejemplo, preguntamos si el 
+		numero 1 es menor a 2 , y eso es verdadero entonces nuestro if 
+		se ejecuta , en el caso contrario no lo hara 
 	
 	
 	estructura:
@@ -59,3 +60,23 @@ Curso de PHP Basico
 
 	nota:
 		if en su condicion puede usar valores booleanos y binarios (0,1) 
+
+--------------------------------------------------------------------------------------
+
+5.- Curso de php 7 - Estructura de control if else con php
+
+	**La estructura de control if else  , consta de una validacion por medio de una 
+		condicion de la cual , se puede obtener un resultado boolean: true o 
+		false, de una condicion , como veremos en el 
+		ejemplo, preguntamos si el numero 1 es menor a 2 , y eso es verdadero entonces
+		nuestro if se ejecuta , en el caso contrario se ejecutara "else",
+		else se ejecuta cada ves que la condicion de su if arroja un falso 
+		como resultado , ejemplo
+
+		estructura:
+		
+		if(1 < 2){
+			se cumple la condicion
+		}else{
+			en caso de que la condicion inical sea falsa se ejecuta else
+		}
