@@ -259,4 +259,30 @@ Curso de PHP Basico
 				se esta cumpliendo la condicion
 
 
+-------------------------------------------------------------------------------------
+
+11.- Curso de php 7 - Arreglos con php	
+
+	Los arreglos basicamente son variables pero estas pueden guardar un numero n
+	de datos a partir de un almacenamiento de indice 
+	la construccion consta del signo de pesos , el nombre del arreglo, igual a "array ()"
+	y de esta manera indicamos que es un arreglo 
+	y en php podemos guardar cualquier tipo de dato
+
+		construccion;
+				$arreglo = array (); 
+
+		ingreso de datos; 
 				
+				$arreglo [0] = "string :D";
+				$arreglo [1] = 23;
+				$arreglo [2] = boolean;
+
+		para verlo seria:
+					echo $arreglo [0];	
+		
+			resultado ->	string :D
+
+		
+		Para ver el contenido del arreglo de manera atomatica usando un for
+		Y calculando el tamaño del arreglo con "Count"
