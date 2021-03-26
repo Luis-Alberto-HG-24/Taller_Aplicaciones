@@ -217,7 +217,8 @@ Curso de PHP Basico
 		
 			for($i = 0; $i < 5 ; $i ++ ){
 				
-				echo "este es un for en la vuelta" . $i ; 
+				echo "este es un for en la vuelta" . $i ;
+				echo "<br>"; 
 			}  
 
 		
@@ -228,3 +229,34 @@ Curso de PHP Basico
 				este es un for en la vuelta 4
 				este es un for en la vuelta 5
 		
+--------------------------------------------------------------------------------
+
+10.- Curso de php 7 - Estructura de control while con php
+
+	While es una estructura control , repetitiva que funciona siempre que su 
+	condicion sea verdadera, consta de su condicion y llaves de trabajo y lo que
+	haya dentro de sus llaves se repetira 
+
+		nota:
+			se requiere de una sentancia de escape para que el ciclo
+			se rompa y no se repita indefinidamente 
+
+
+		ejemplo:
+
+				while ($condicion < 5 ) {
+					
+					echo "se esta cumpliendo la condicion";
+					echo "<br>";
+				}
+
+		Resultado 
+				
+				se esta cumpliendo la condicion
+				se esta cumpliendo la condicion
+				se esta cumpliendo la condicion
+				se esta cumpliendo la condicion
+				se esta cumpliendo la condicion
+
+
+				
