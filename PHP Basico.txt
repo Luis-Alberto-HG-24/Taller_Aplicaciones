@@ -286,3 +286,22 @@ Curso de PHP Basico
 		
 		Para ver el contenido del arreglo de manera atomatica usando un for
 		Y calculando el tamaño del arreglo con "Count"
+
+----------------------------------------------------------------------------------------
+
+12.- Curso de php 7 - Arreglos asociativos con php
+
+		Es un tipo de dato que puede almacenar N datos pero no los gurda por indice
+		ya que se le proporciona una llave o nombre a dicho dato 
+
+
+		
+		estructura:		
+				$arreglo = array (
+					"coche" => "verde",
+					"moto" => "roja",
+					"avion" => "gris");
+
+		para verlo:
+		
+			echo $arreglo ['coche '];
