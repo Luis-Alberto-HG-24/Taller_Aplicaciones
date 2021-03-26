@@ -305,3 +305,19 @@ Curso de PHP Basico
 		para verlo:
 		
 			echo $arreglo ['coche '];
+
+-------------------------------------------------------------------------------------
+
+13.- Curso de php 7 - Estructura de control foreach con php
+
+	La estructura foreach es de control iterativa que usa llaves o asociaciones
+	de datos con indice
+
+	el forech puede leer los arreglos asociativos ya que el es el que marca 
+	su llave
+	
+	foreach ($arreglo as $key ){
+		
+		echo $key;
+		echo "<br>"
+	}
