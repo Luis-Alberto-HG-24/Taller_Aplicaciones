@@ -332,4 +332,18 @@ Curso de PHP Basico
 	$datos= explode (" ",var);
 
 	explode separara los datos de nuestra cadena por los parametros que le
-	indequemos y en siguiente apartado la variable de la cual vamos a partir 
+	indequemos y en siguiente apartado la variable de la cual vamos a partir
+
+--------------------------------------------------------------------------------------
+
+ 15.- Curso de php 7 - Manejo de fechas con php
+
+	
+	las fechas , debemos especificar con
+	 "date_default_timezone_set ('America/Mexico_city');
+
+	con el fin de especificar con que fecha va a manejarse nuestro servidor
+	y que este use la fecha especificada
+
+		fecha del dia actual de manera corta --> echo $fecha=date('d-m-y')
+		fecha del dia actual de manera explicita --> echo $fecha=date('D-M-Y')
