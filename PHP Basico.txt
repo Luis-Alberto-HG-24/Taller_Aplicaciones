@@ -321,3 +321,15 @@ Curso de PHP Basico
 		echo $key;
 		echo "<br>"
 	}
+
+----------------------------------------------------------------------------
+
+14.- Curso de php 7 - Manejo de strings con explode en php
+
+	Explode es una funcion que convierte un string a un arreglo , dependiendo
+	de la construccion pedida
+
+	$datos= explode (" ",var);
+
+	explode separara los datos de nuestra cadena por los parametros que le
+	indequemos y en siguiente apartado la variable de la cual vamos a partir 
