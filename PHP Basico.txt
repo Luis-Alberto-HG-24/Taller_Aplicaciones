@@ -1,0 +1,13 @@
+Curso de PHP Basico
+-----------------------------------
+
+2.- Curso de php 7 - Declaración de variables y comentarios con php
+
+	*la plantilla de php se escribe c
+
+	*Los comentarios en php se pueden escribir ; //comentario , #comentario /*comentario de parrafo */
+
+	*Una variable en php se declara con el signo de pesos seguido del nombre, ejemplo: $mivariable
+		//PHP es un lenguaje debilmente tipado 
+
+	*Para imprimir en php se usa la palabra reservada "echo" y en el caso de imprimir nuestra variable seria : echo $mivariable
