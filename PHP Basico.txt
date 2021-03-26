@@ -139,6 +139,28 @@ Curso de PHP Basico
 	
 		1 < 2  or   2 > 1 
 
+------------------------------------------------------------------------------------
+
+7.1.- Curso de php 7 - Operador de diferente y de negación con php	
+
+	los operadores logicos de diferente y de negación son otra manera de validar 
+	campos que sean diferentes o que no queremos que sean de un tipo
+
+	ejemplo: 
+
+	diferente ; se escribe != para representar que un dato es diferente de otro
+
+			5  != 10 
+		
+		en este caso la condicion se cumple porque 5 es diferente de 10
+
+	
+	negacion; se escribe ! para representar que un dato NO es verdadero
+
+			!false
+	
+		en este caso ,  false no es verdadero entonces se cumple
+	
 	
 	
 		
