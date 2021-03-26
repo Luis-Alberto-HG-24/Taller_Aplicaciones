@@ -196,5 +196,35 @@ Curso de PHP Basico
 			}
 
 	
+---------------------------------------------------------------------------------------
+
+9.- Curso de php 7 - Estructura de control for con php
+
+	la estructura de control for es una estructura de repiticion iterativa que
+	contiene 3 zonas , zona de declaracion , zona de condiccion y la zona de accion
+	ademas de sus llaves de inicio y cierre, y cada ves que se repita el ciclo
+	se ejecutara lo que haya dentro de su bloque de trabajo 
 	
+	en la zona de declaracion;  creamos nuestra variable con la que trabajemos 	
+	
+	en la zon de condicion ;  justo crearemos una condicion la que manejara,
+	dependiendo de las veces que queramos o nesecitemos que este ciclo se repita
+	
+	en la zona de accion ; crearemos nuestra sentencia de escape
+
+		
+		ejemplo:
+		
+			for($i = 0; $i < 5 ; $i ++ ){
+				
+				echo "este es un for en la vuelta" . $i ; 
+			}  
+
+		
+		Resultado; 
+				este es un for en la vuelta 0
+				este es un for en la vuelta 1
+				este es un for en la vuelta 2
+				este es un for en la vuelta 4
+				este es un for en la vuelta 5
 		
