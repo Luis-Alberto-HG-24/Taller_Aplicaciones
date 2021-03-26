@@ -161,6 +161,40 @@ Curso de PHP Basico
 	
 		en este caso ,  false no es verdadero entonces se cumple
 	
+
+---------------------------------------------------------------------------------------
+
+8.- Curso de php 7 - Estructura de control switch case con php
+
+	Switch es una estructura de control en la que evalua una variable
+	y dependiendo el valor de esta variable se ejecutaran los casos correspondientes 
+	en "Case" , si el case inicial no es igual a lo que se evalua en la variable
+	se ejecutaria el case siguiente , si este es valido , en el caso contrario
+	se ejecutaria el siguiente case 
+
+	en el caso de que ninguno de los case coincida con el valor de nuestra variable 
+	se ejecutaria "default" 
+
+	ademas , de que se debe de añadir "break" al final de cada caso para que solo 
+	ejecute un case a la ves
+
+	
+	ejemplo: 
+
+			switch($valor_a_evaluar){
+
+				case 'a':
+					echo "este es el caso a";			
+					break;
+				case 'b':
+					echo "este es el caso b";			
+					break;
+				default;
+					echo ningun case coincide con el valor
+						 a evaluar
+
+			}
+
 	
 	
 		
