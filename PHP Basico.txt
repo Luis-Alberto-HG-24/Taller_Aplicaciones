@@ -38,3 +38,24 @@ Curso de PHP Basico
 	echo $variable1 + $variable2; 
 
 	Solo agregamos un echo 
+
+------------------------------------------------------------------------------------
+
+
+4.- Curso de php 7 - Estructura de control if con php
+
+
+	*La estructura de control if , consta de una condicion de la cual , se puede obtener
+		un resultado boolean: true o false, de una condicion , como veremos en el 
+		ejemplo, preguntamos si el numero 1 es menor a 2 , y eso es verdadero entonces
+		nuestro if se ejecuta , en el caso contrario no lo hara 
+	
+	
+	estructura:
+		
+		if(1 < 2){
+			se cumple la condicion
+		}
+
+	nota:
+		if en su condicion puede usar valores booleanos y binarios (0,1) 
