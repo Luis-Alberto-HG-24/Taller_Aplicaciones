@@ -347,3 +347,40 @@ Curso de PHP Basico
 
 		fecha del dia actual de manera corta --> echo $fecha=date('d-m-y')
 		fecha del dia actual de manera explicita --> echo $fecha=date('D-M-Y')
+
+----------------------------------------------------------------------------------------
+
+16.- Curso de php 7 - Funciones con php
+
+	las funciones son bloques de codigo que podemos utilizar invocandolas con su
+	nombre (metodo) 
+
+	se declaran con la palabra reservada "function" seguido del nombre, sus
+	parentesis y sus llaves 
+
+		ejemplo:
+				function miFuncion (){
+					
+					echo "mi funcion";
+				}
+
+	para invocar a nuestra funcion lo hacemos asi:
+
+		miFuncion();
+
+
+	
+	hay varios tipos de funciones , una de ella es la escalar en la cual le 
+	declaramos en sus parametros valores para su uso 
+
+	
+			function miFuncion2 ($valor1, $valor2, $valor3){
+					
+					echo "mi funcion con valores en
+						sus parametros ";
+				}
+
+	
+	Y llenamos esos parametros de esta manera
+
+		miFuncion(5,10,15);
