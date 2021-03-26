@@ -1,5 +1,5 @@
 Curso de PHP Basico
------------------------------------
+--------------------------------------------------------------
 
 2.- Curso de php 7 - Declaración de variables y comentarios con php
 
@@ -11,3 +11,30 @@ Curso de PHP Basico
 		//PHP es un lenguaje debilmente tipado 
 
 	*Para imprimir en php se usa la palabra reservada "echo" y en el caso de imprimir nuestra variable seria : echo $mivariable
+
+------------------------------------------------------------------
+
+3.- Curso de php 7 -Signos de operaciones básicas con php
+
+	*Los signos de operaciones en php son:
+		+ suma 
+		- resta
+		* multiplicacion
+		/ division 
+	
+	Con estos signos podemos realizar operaciones basicas, ejemplo 
+	
+	5 + 1 , 4 * 2 , 10 / 5
+
+	Pero tambien podemos relaizar operaciones basicas con varibales , ejemplo:
+	
+	$variable1 = 5; 
+	$variable2 = 5; 
+	
+	$variable1 + $variable2; 
+
+	y esto nos daria como resultado 10 , que podriamos mostrarlo en pantalla asi:
+	
+	echo $variable1 + $variable2; 
+
+	Solo agregamos un echo 
