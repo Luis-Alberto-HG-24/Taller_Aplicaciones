@@ -122,4 +122,23 @@ Curso de PHP Basico
 			
 		}
 
+-----------------------------------------------------------------------------------
 
+7.- Curso de php 7 - Operadores lógicos and y or con php
+
+	los operadores logicos sirven para validar expresiones , como "and" ambas 
+	sentencias y "or" para validar una de las 2 
+	
+	ejemplo;
+
+	en "and" se deben cumplir ambas 
+
+		1 < 2   and   2 > 1
+
+	en "or" se debe cunplir por lo menos una 
+	
+		1 < 2  or   2 > 1 
+
+	
+	
+		
