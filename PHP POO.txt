@@ -1,2 +1,16 @@
 PHP POO
 ------------------------------------------------------------------------
+1.-Programación Orientada a Objetos con php - Clases con php
+
+	Las clases son un espacio de trabajo donde podemos usar funciones 
+	y atributos ,dentro de php podemos declarar N clases 
+
+	se declara con la palabra reservada "class" seguido del nombre de la clase
+	y sus llaves 
+
+			class miClase{
+				
+				#esto es una clase 
+			}
+
+	
