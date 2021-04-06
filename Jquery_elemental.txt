@@ -18,7 +18,25 @@ jQuery
 				$(document).ready(function(){
 				alert("hola");
 
+----------------------------------------------------------------
 
+
+2.-Curso de jquery- Evento click con un button html
+
+
+	En esta parte como tal ejecutamos la parte del evento click
+	
+	* De inicio creamos nuestra plantilla de html y nuestra estructura basica de 
+	jQuery 
+
+	* Creamos un boton con un id "miboton" y un texto de "Click aqui"
+
+	*En nuestro script al final del documento creamos esta parte del evento Click
+		en la cual hicimos que al presionar el boton la pagina nos
+		nos mostrara un mensaje diciendo "Has presionado el boton :D"
+
+		mediante una funcion dependiento del click y todo de esto 
+		a traves del ID 
 		
 		
 
