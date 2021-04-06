@@ -38,6 +38,26 @@ jQuery
 		mediante una funcion dependiento del click y todo de esto 
 		a traves del ID 
 		
+
+----------------------------------------------------------------------------------
+
+3.- Curso de jquery - Propiedad text de un div html
+
+	Ahora se vio la propiedad de un text de un div
+
+		*Creamos nuestra plantilla de html 
+
+		*Creamos nuestra estructura basica de jquery 
+
+		*sobre el evento click de nuestro boton agregamos una alerta que 
+			traia nuestro div y al estar vacia la funcion "text ();" 		
+			quiere decir que se mostrara lo que el div contenga 
+
+		*En caso de que en el espacio de la funcion "text" incluyamos un
+			un texto , este se agregara a pantalla 
+
+
+
 		
 
 
