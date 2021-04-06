@@ -1,0 +1,26 @@
+jQuery 
+----------------------------------------
+1.- Curso de jquery - Estructura basica de documento jquery}
+
+	En cuanto a la estuctura basica de Jquery nesecitamos:
+
+		*Descargar "the compressed, production jQuery 3.6.0"
+		
+		*La plantilla basica de HTML 
+
+		*Agregaremos la libreria de jquery de la sig manera:
+			<script src="jquery-3.6.0.min.js"></script>
+
+		* Despues de nuestra plantilla de html agregaremos un script que es
+			el siguiente
+				  
+			<script type="text/javascript">
+				$(document).ready(function(){
+				alert("hola");
+
+
+		
+		
+
+
+
