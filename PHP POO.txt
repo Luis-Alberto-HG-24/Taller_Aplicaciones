@@ -13,4 +13,21 @@ PHP POO
 				#esto es una clase 
 			}
 
-	
+-----------------------------------------------------------------------------
+2 .-Programación Orientada Objetos con php - Métodos y atributos con php
+
+	Los metodos es un conjunto de instrucciones que realizaran una tarea
+	en especifica y estos se declaran con el modificador de acceso "public"
+	y la palabra reservada "function"
+			
+
+			public function miMetodo(){
+					
+				#esto es un metodo
+			}
+
+
+	lo satributos son variables que podemos usar en una clase y estos llevan
+	el modificador de acceso, ejemplo 
+		
+			public $atributo ="";
