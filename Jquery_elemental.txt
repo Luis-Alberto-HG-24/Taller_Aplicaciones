@@ -56,8 +56,26 @@ jQuery
 		*En caso de que en el espacio de la funcion "text" incluyamos un
 			un texto , este se agregara a pantalla 
 
+----------------------------------------------------------------------------------
 
 
+4.- Curso de jquery - Propiedad val de campo de texto html
+
+	con la propiedad de val de un campo de texto podemos obtener el valor de
+	de este campo de texto o llenarlo
+
+	* Creamos nuestra plantilla de html
+
+	* Creamos nuestra estructura basica de jquery
+
+	* Creammos un imput al cual le agregamos un ID para despues con nuestro evento
+		click obtener el valor que ingresemos a ese input o de inicio
+		llenarlo
+
+
+	
+
+	
 		
 
 
