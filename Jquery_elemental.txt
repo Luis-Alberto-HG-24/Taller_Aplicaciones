@@ -44,6 +44,8 @@ jQuery
 3.- Curso de jquery - Propiedad text de un div html
 
 	Ahora se vio la propiedad de un text de un div
+			
+			procedmiento:
 
 		*Creamos nuestra plantilla de html 
 
@@ -63,6 +65,8 @@ jQuery
 
 	con la propiedad de val de un campo de texto podemos obtener el valor de
 	de este campo de texto o llenarlo
+		
+		procedmiento:
 
 	* Creamos nuestra plantilla de html
 
@@ -80,6 +84,9 @@ jQuery
 	con la propiedad val de un control , tomamos el valor de una opcion por
 	ejemplo , y este valor podemos llamarlo a pedir 
 
+		
+		procedmiento:
+		
 	*  Creamos nuestra plantilla de html
 
 	* Creamos nuestra estructura basica de jquery
@@ -90,6 +97,24 @@ jQuery
 	nos muestra el valor de esta opcion por medio de una alerta gracias
 	a val
 		
+------------------------------------------------------------------------------------
 
+6.- Curso de jquery - Propiedad checked de checkbox html
 
+	con la propiedad check hicimos un checkbox , que es un un punto que 
+	podemos llenar
+
+	
+		procedmiento:
+
+	*  Creamos nuestra plantilla de html
+
+	* Creamos nuestra estructura basica de jquery
+
+	* creamos un label para solo poner un letrero 
+
+	* creamos un input del tipo "chekbox" y con su ID
+
+	* Creamos un evento click en el cual nos avisaba con un alert si el chekbox
+	  estaba chekeado 
 
