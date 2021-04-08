@@ -13,3 +13,17 @@ Imágenes estilo Google con php y gridder | Agregado de dependencias. Cap 1
 	*Agregamos el titulo y sub titulo de nuestra galeria 
 
 ----------------------------------------------------------------------------------
+
+Imágenes estilo Google con php y gridder | Creación de contenido. Cap 2
+
+	Ahora agregamos el contenido 
+
+
+	* Creamos un archivo llamado "contenido.php" y dentro de este una funcion
+	  llamada "contenido()"
+	
+	*Creamos un array que es el que contiene la direccion de la imagen ,
+	 El titulo de la imagen y la descripcion de la imagen 
+
+	*Despues llamamos archivo con "require_once " y establecimos que una 
+	 variable llamada $datos sera igual al "contenido()" contenido
