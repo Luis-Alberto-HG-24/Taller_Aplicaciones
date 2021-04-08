@@ -1,0 +1,15 @@
+Aplicacion 1 (Gridder y php) sin conexion a bd
+-----------------------------------------------------------------------
+Imágenes estilo Google con php y gridder | Agregado de dependencias. Cap 1
+
+	Agregamos las dependencias necesarias para empezar con la generacion de 
+	nuestras imgenes tipo google 
+
+	* agregamos los link para cada una de las dependencias que se encontraban en
+	las librerias 
+	
+	* agregamos los script necesarios
+	
+	*Agregamos el titulo y sub titulo de nuestra galeria 
+
+----------------------------------------------------------------------------------
