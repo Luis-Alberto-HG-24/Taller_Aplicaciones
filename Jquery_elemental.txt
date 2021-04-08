@@ -73,9 +73,22 @@ jQuery
 		llenarlo
 
 
-	
+-----------------------------------------------------------------------------------
 
+5.- Curso de jquery - Propiedad val de control select html
+
+	con la propiedad val de un control , tomamos el valor de una opcion por
+	ejemplo , y este valor podemos llamarlo a pedir 
+
+	*  Creamos nuestra plantilla de html
+
+	* Creamos nuestra estructura basica de jquery
+
+	*creamos un select y dentro de este creamos diversas opciones
 	
+	*creamos un botos y al presionarlo y seleccionar una opcion previamente 
+	nos muestra el valor de esta opcion por medio de una alerta gracias
+	a val
 		
 
 
