@@ -118,3 +118,23 @@ jQuery
 	* Creamos un evento click en el cual nos avisaba con un alert si el chekbox
 	  estaba chekeado 
 
+-----------------------------------------------------------------------------------
+
+7.- Curso de jquery - Obtener el valor de un control radio html
+
+	un radio es parecido al checkbox , pero solo se puede seleccionar una opcion
+	como en un cuestionario 
+
+		procedimiento:
+
+		
+	*  Creamos nuestra plantilla de html
+
+	* Creamos nuestra estructura basica de jquery
+
+	* Creamos 2 label de letrero para indicar el valor de nuestros radios 
+	
+	* creamos nuestro input de tipo radio con el mismo nombre pero diferente id 
+
+	* Con el evento click validamos cada uno de los radios y mostramos si eran
+	  positivos o negativos
