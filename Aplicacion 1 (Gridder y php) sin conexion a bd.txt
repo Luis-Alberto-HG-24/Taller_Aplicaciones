@@ -27,3 +27,19 @@ Imágenes estilo Google con php y gridder | Creación de contenido. Cap 2
 
 	*Despues llamamos archivo con "require_once " y establecimos que una 
 	 variable llamada $datos sera igual al "contenido()" contenido
+
+
+----------------------------------------------------------------------------------
+
+Imágenes estilo Google con php y gridder | Crear galería. Cap 3
+
+	Creamos como tal la galeria de imagenes 
+
+	* Le agregamos un color a nuestro documento con "background-color"
+	  y un color de letra con "color"
+
+	*Creamos nuestros apartdados a travesde unos "ul" y "il", añadiendo un for
+	para que se repitiera
+
+	* Agregamos un script al final del codigo que sirve para una pequeña 
+	  animacion
