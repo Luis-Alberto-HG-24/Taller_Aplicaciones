@@ -13,8 +13,19 @@ Tablas dinámicas con datatable, php, mysql y bootstrap 4
 ----------------------------------------------------------------------------------
 Creación de bd y clase de conexión. Cap 2
 
-creamos la base de datos , que en este caso se hizo de juegos , se creo en "phpmyadmin"
-y posteriormente creamos la conexion a la base de datos con la funciion 
-"mysqli_connect"y llenando los parametros necesarios 
+	creamos la base de datos , que en este caso se hizo de juegos , se creo en "phpmyadmin"
+	y posteriormente creamos la conexion a la base de datos con la funciion 
+	"mysqli_connect"y llenando los parametros necesarios 
 
 ------------------------------------------------------------------------------------
+
+Maquetación de tabla html. Cap 3
+
+	Se creo la tabla con sus respectiva cabecera y pie
+	
+	* Se añadio los parametros de la tabla que en ese caso son "nombre año y empresa" ademas 
+	 de agregarle un color al apartado y a la letra
+
+	*Se agrego parte de la documentacion de bootstrap para una "tarjeta" donde estara nuestra tabla 
+
+	* agregamos un documento jquery en el que el boton "agregar nuevo" va a recargar la tabla
