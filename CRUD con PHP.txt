@@ -11,3 +11,10 @@ Tablas dinámicas con datatable, php, mysql y bootstrap 4
 	  y los js con una etiqueta "script"
 
 ----------------------------------------------------------------------------------
+Creación de bd y clase de conexión. Cap 2
+
+creamos la base de datos , que en este caso se hizo de juegos , se creo en "phpmyadmin"
+y posteriormente creamos la conexion a la base de datos con la funciion 
+"mysqli_connect"y llenando los parametros necesarios 
+
+------------------------------------------------------------------------------------
