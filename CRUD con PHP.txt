@@ -29,3 +29,15 @@ Maquetación de tabla html. Cap 3
 	*Se agrego parte de la documentacion de bootstrap para una "tarjeta" donde estara nuestra tabla 
 
 	* agregamos un documento jquery en el que el boton "agregar nuevo" va a recargar la tabla
+
+--------------------------------------------------------------------------------------------------------------
+
+Mostrar datos y formato datatable. Cap 4
+
+	* Agregamos la libreria de font awesome para nuestros inconos de editar y borrar , ademas de agregarlo 
+	  con un "link" al ser css
+
+	*agregamos los td flatantes para las opciones de "eliminar y editar" , ademas de agregar los iconos 
+	 que ya tenemos y que podemos ver en la pagina de fontAwesom
+
+	
