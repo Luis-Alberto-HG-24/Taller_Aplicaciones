@@ -38,6 +38,24 @@ Mostrar datos y formato datatable. Cap 4
 	  con un "link" al ser css
 
 	*agregamos los td flatantes para las opciones de "eliminar y editar" , ademas de agregar los iconos 
-	 que ya tenemos y que podemos ver en la pagina de fontAwesom
+	 que ya tenemos y que podemos ver en la pagina de fontAwesome
+
+	*Agregamos los iconos por medio de su clase en el span
+
+------------------------------------------------------------------------------------------------------------
+
+Inserción de datos. Cap 5
+
+
+	*Agregamos el "modal" de la documentacion de bootstrap, para que al hacer click en el boton de agregar 
+	 nuevo nos parezca el "nodal"
+
+	*Agregamos un formulario en nuestro modal para poder ingresar los datos atraves de un input
+
+	*Agregamos un meta charset utf-8
+
+	*Agregamos un evento click del boton "Agregarnuevo" en donde guardaremos los datos 
+	 con un ajax y mandnadolo a otro archivo , ademas de que esta antes del documento jquery que sera el que
+	 actualiza la tabla , ademas de un funcion en la que nos deja el registro limpio
 
 	
