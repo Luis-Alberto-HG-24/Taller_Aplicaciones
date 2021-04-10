@@ -1,0 +1,13 @@
+Tablas dinámicas con datatable, php, mysql y bootstrap 4 
+------------------------------------------------------------------------------
+
+ Estructura de carpetas Cap 1
+
+	Agregamos todas las dependencias necesarias para nuestro CRUD ,que fueron 
+	las de Bootstrap, Jquery, datatable y alertify
+
+	* Las agregamos descargando estas dependencias y guardandolas en nuestra carpeta de 
+	  nuestro proyecto , para posteriormente agregar los css con una etiqueta "link"
+	  y los js con una etiqueta "script"
+
+----------------------------------------------------------------------------------
