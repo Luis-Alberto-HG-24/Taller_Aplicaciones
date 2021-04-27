@@ -58,4 +58,14 @@ Inserción de datos. Cap 5
 	 con un ajax y mandnadolo a otro archivo , ademas de que esta antes del documento jquery que sera el que
 	 actualiza la tabla , ademas de un funcion en la que nos deja el registro limpio
 
+--------------------------------------------------------------------------------------------------------------
+
+Actualizar datos 1. Cap 6
+
+	*Se hicieron los iconos de editar y de borrar mas pequeños ya que "xs" no funcionaba en bootstrap 4
+
+	*De nuevo agregamos de bootrstap el modal para editar los datos que estan en la tabla y modificamos
+	 los botones por defecto 
+
+
 	
