@@ -1,0 +1,22 @@
+
+Crud con PDO y MySQL | Plantilla del proyecto. Cap 1
+-----------------------------------------------------------------------------------------
+
+	Se ve la plantilla del proyecto del crud con sus funciones basicas 
+	
+	* Se analizo la cuestion de los iconos que son necesarios descargar por aparte
+	  Ya que bootstrap 4 ya no cuenta con iconos nativos, asi que estos fueron 
+	  Descargados de "Font awesome" 
+
+	* Se analizo la parte del boton que cuenta con un icono de font awesome y que cuenta
+	  CON "data toggle ='modal'" y "data-target" los cuales nos permiten abrir la nodal 
+	
+	
+	* Se tienen unos "require-once"  para el agregado de la nodal que esta por aparte para que el codigo 
+	  no sea muy robusto 
+
+	* Se tiene la tabla con sus respectivas caracteristicas "los apartados de editar , eliminar etc" 
+
+	*Se tiene al final del codigo los scripts de bootstrap
+
+--------------------------------------------------------------------------------------------------- 
