@@ -29,3 +29,26 @@ Crud con PDO y MySQL | Conexión a MySQL con PDO. Cap 2
 	  el metodo "conectar" con los datos de la base de datos 
 
 ----------------------------------------------------------------------------------------------------
+
+Crud con PDO y MySQL | Mostrar datos en tabla html con PDO. Cap 3
+
+	*Se hace una funcion "crud" que hereda a "conexion"con todos los datos que nos mostraran 
+	 los datos de nuestra base de datos 
+
+	*Se creo una variable que guarda nuestra tabla y asi lograr hacer nuestro codigo menos 
+	 robusto 
+
+	* Guardamos nuestros datos una variable y estos seran iterados con un foreach
+
+	* declaramos nuestra funcion "obtener datos" y "eliminar datos"
+
+--------------------------------------------------------------------------------------------------------
+
+Crud con PDO y MySQL | Insertar datos con PDO a MySQL. Cap 4
+
+	*Creamos nuestra funcion "insertarDatos" con su ajax y con la parte del mensaje que se mostrara en Sweet alert 
+
+	*Creamos el archivo insertar datos para justamente insertar los datos o un nuevo registro 
+
+---------------------------------------------------------------------------------------------------------
+ 
