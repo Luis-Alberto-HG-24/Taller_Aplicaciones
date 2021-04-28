@@ -19,4 +19,13 @@ Crud con PDO y MySQL | Plantilla del proyecto. Cap 1
 
 	*Se tiene al final del codigo los scripts de bootstrap
 
---------------------------------------------------------------------------------------------------- 
+---------------------------------------------------------------------------------------------------
+Crud con PDO y MySQL | Conexión a MySQL con PDO. Cap 2 
+
+	* se creo la base de datos en phpMyAdmin, copiando un query ya con las instrucciones y
+	  con este codigo se creo tambien la tabla "tcrud"
+
+	* se creo la clase "Conexion" justamente para hacer la conexion a la base de datos, se hizo
+	  el metodo "conectar" con los datos de la base de datos 
+
+----------------------------------------------------------------------------------------------------
