@@ -23,3 +23,16 @@ Ademas de agregar unos archivosde Bootstrap 4 como fueron unos .min.css y .min.j
 
 Modificamos la parte de las password para que esta no se mostrara y cambiamos la
 imagen que aparece ademas del titulo que lleva al inicio 
+
+------------------------------------------------------------------------------------
+
+Sistema Gestor de Archivos con php y mysql | Maquetación de registro. Cap 
+
+	Maquetamos el registro
+	
+	Agregamos un titulo ("Registro") con un h1 
+
+	Agregamos cada uno de los parametros Donde el usuario podra registarse
+	ademas de los botones para ragistrarse y para poder regresar al login 
+
+
