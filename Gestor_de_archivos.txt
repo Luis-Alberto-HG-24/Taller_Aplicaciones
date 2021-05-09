@@ -1,0 +1,25 @@
+Sistema Gestor de Archivos con php y mysql | Estructura de carpetas del proyecto. Cap 2
+-----------------------------------------------------------------------------------------
+
+Creamos la estructura base de mnuestras carpetas en al que creamos: 
+
+	*clases : Para nuestras clases php
+	*css: Para nuestros archivos css que son los de los estilos¨
+	*img: para imagenes
+	*js: Para nuestros archos javaScript
+	* librerias : Justamente para todas las librerias que ocuparemos
+	* procesos: es una carpeta de punto medio donde se separaran los procesos 
+	* view: Para las vistas , visualizar partes del proyecto
+
+	* 2 Archivos php
+
+-------------------------------------------------------------------------------------
+Sistema Gestor de Archivos con php y mysql | Maquetación de login. Cap 3
+
+
+Copiamos toda la plantilla de nuestro login de la web
+
+Ademas de agregar unos archivosde Bootstrap 4 como fueron unos .min.css y .min.js 
+
+Modificamos la parte de las password para que esta no se mostrara y cambiamos la
+imagen que aparece ademas del titulo que lleva al inicio 
