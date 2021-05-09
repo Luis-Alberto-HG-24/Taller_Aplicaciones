@@ -35,4 +35,21 @@ Sistema Gestor de Archivos con php y mysql | Maquetación de registro. Cap
 	Agregamos cada uno de los parametros Donde el usuario podra registarse
 	ademas de los botones para ragistrarse y para poder regresar al login 
 
+--------------------------------------------------------------------------------------------------
+
+Sistema Gestor de Archivos con php y mysql | Agregar sweetalert en login y registro. Cap 5
+
+
+Agregamos la libreria de sweet alert para nuestro login y nuestro registro para que si en el login
+es erroneo el ingreso nos muestre la alerta con esta libreria y en el registro para que nos confirme
+de realizado o alerte en caso contrario 
+
+	* Buscamos "sweetAlert" y en "guide" y en la pagina , en el apartado de CDN copiamos el link
+	  De SW , lo descargamos y lo guardamos ennuestra carpeta de liberias para despues agregarlo
+	  Con un script en nuestro index.php y registro.php
+
+------------------------------------------------------------------------------------------------------
+
+
+
 
