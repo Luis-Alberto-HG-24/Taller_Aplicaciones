@@ -49,7 +49,15 @@ de realizado o alerte en caso contrario
 	  Con un script en nuestro index.php y registro.php
 
 ------------------------------------------------------------------------------------------------------
+Sistema Gestor de Archivos con php y mysql | Menú responsive design (parte 1). Cap 6
 
+	Creamos nuestro menu vertical (NAV BAR) 
+
+	Cremos los archivos de "Header.php , Footer.php e inicio.php"
+
+	Para ello utilizamos una barra de navegacion ya creada y sobre esta empezamos a modificarla a 
+	nuestras nesecidades , ademas de agregar las dependencias y el logo. 
+	Tambien agregamos nuestros Scripts
 
 
 
