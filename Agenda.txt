@@ -1,0 +1,16 @@
+Agenda de contactos con php y mysql | Estructura de carpetas y dependencias. Cap 1
+------------------------------------------------------------------------------------
+
+	Hicimos la estructura de nuestras carpetas en las cuales agregamos; 
+	("clases,img,procesos,public,vistas") y tambien agregamos unos archivos;
+	("categorias, contactos, dependencias,index y menu ... .php")
+
+	Agregamos todas nustras dependencias necesarias para el proyecto como bien son;
+	("Bootstrap4 , fontawesome , datatable y jquery")
+
+	Y todas nuestras dependencias las agregamos a nuestro index con un tag de php y 
+	dentro de este con un "require_once" 
+
+	Por ultimo agregamos nuestro fav icon 
+
+-------------------------------------------------------------------------------------------
