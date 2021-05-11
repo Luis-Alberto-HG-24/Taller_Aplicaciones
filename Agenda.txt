@@ -14,3 +14,14 @@ Agenda de contactos con php y mysql | Estructura de carpetas y dependencias. Cap
 	Por ultimo agregamos nuestro fav icon 
 
 -------------------------------------------------------------------------------------------
+Agenda de contactos con php y mysql | Agregar menú responsive design. Cap 2
+
+	Agregamos nuestro menu responsive el cual tomamos de bootstrap 4 y fuimos modificando
+	a nuestras necesidades , Cambiamos los nombres de cada uno de los apartados del menu
+	Agregamos las direccionales de cada apartado y agregamos iconos a cada uno de los 
+	Apartados del menu.
+
+	Tambien le agregamos a cada uno de los apartados del menu nuestra plantilla basica 
+	que contiene el menu responsive y asi tenga esa parte de ser una "pagina"
+
+----------------------------------------------------------------------------------------------
